@@ -10,7 +10,7 @@
     justify-content: center;
 
 }
-.Card .Hearder .Title {
+.Card .Header .Title {
     flex: 1;
     padding: 5px;
 }
@@ -18,14 +18,14 @@
     padding: 20px;
 
 }
-.Card.Red .Hearder{ color: white; background-color: #c62828;}
+.Card.Red .Header{ color: white; background-color: #c62828;}
 .Card.Red .Content{ background-color: #f44336;}
 
-.Card.Green .Hearder{ color: white; background-color: #2e7d32;}
+.Card.Green .Header{ color: white; background-color: #2e7d32;}
 .Card.Green .Content{ background-color: #4caf50;}
 
-.Card.Blue .Hearder{ color: white; background-color: #1565c0;}
+.Card.Blue .Header{ color: white; background-color: #1565c0;}
 .Card.Blue .Content{ background-color: #2163f3;}
 
-.Card.Purple .Hearder{ color: white; background-color: #6a1b6a;}
+.Card.Purple .Header{ color: white; background-color: #6a1b6a;}
 .Card.Purple .Content{ background-color: #9c27b0;}
